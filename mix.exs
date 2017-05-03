@@ -4,7 +4,7 @@ defmodule ElixirNewrelic.Mixfile do
   def project do
     [app: :elixir_newrelic,
      version: "0.2.1",
-     elixir: "~> 1.1.0",
+     elixir: "~> 1.3.0",
      description: "New Relic Elixir Agent",
      deps: deps,
      package: package]
