@@ -15,7 +15,7 @@ defmodule ElixirNewrelic.Mixfile do
   end
 
   defp deps do
-    [{:cure, "~> 0.4.1"}, {:exprotobuf, ">=1.0.0-rc1"}]
+    [{:cure, "~> 0.5.0"}, {:exprotobuf, ">=1.0.0-rc1"}]
   end
 
   defp package do
